@@ -2,11 +2,18 @@
 
 # AI Learning Journey
 
-![Last Commit](https://img.shields.io/github/last-commit/ox0sara/python_course_tvto)
-![Updated](https://img.shields.io/badge/last-thursday-blue)
-![Python](https://img.shields.io/badge/python-100%25-blue)
-![Languages](https://img.shields.io/badge/languages-1-inactive)
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+
+![Languages](https://img.shields.io/badge/languages-2-inactive)
+![Last Commit](https://img.shields.io/github/last-commit/ox0sara/python_course_tvto)
+
 
 </div>
 
@@ -57,6 +64,13 @@ The main objectives of this repository are:
 ---
 
 
+## 📬 Contact
+
+If you'd like to collaborate or learn together, feel free to get in touch!
+
+
+
+---
 # 🗂 Content Organization
 
 <!-- DIRSTRUCTURE_START_MARKER -->
@@ -137,12 +151,6 @@ My_Way_to_Ai/
 </pre>
 <!-- DIRSTRUCTURE_END_MARKER -->
 
-
-
-## 📬 Contact
-
-If you'd like to collaborate or learn together, feel free to get in touch!
-
-> _Note: This repository is a personal educational log._
-
+---
+> 💡Note: This repository is a personal educational log._
 ---
