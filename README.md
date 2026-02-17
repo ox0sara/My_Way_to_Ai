@@ -20,6 +20,43 @@ This repository serves both as a **learning log** and a **showcase of my growing
 
 ---
 
+## 📚 Repository Contents
+
+This repository includes:
+- 📂 **Weekly folders** with lessons and practice files  
+- 📝 **Notes and summaries** for each session  
+- 🛠️ **Exercises and hands-on projects**  
+- 📦 **Additional resources and references**
+
+---
+
+## 🎯 Objectives
+
+The main objectives of this repository are:
+
+1. **Learn coding and conceptual fundamentals** through structured exercises and real examples.  
+2. **Build a strong foundation in AI concepts** and practical applications.  
+3. **Document learning progress** for self-review and future reference.  
+4. **Experiment with small projects** to apply concepts in practice.  
+5. **Share knowledge and resources** with others interested in Python and AI.
+
+---
+
+## 🧑‍💻 Tools & Technologies
+
+- **Python 3.x**  
+- **VS Code / PyCharm**  
+
+---
+
+
+# 📅 My Daily Learning Log
+
+![Learning Hours](daily_log/learning_chart.png)
+
+---
+
+
 # 🗂 Content Organization
 
 <!-- DIRSTRUCTURE_START_MARKER -->
@@ -100,43 +137,6 @@ My_Way_to_Ai/
 </pre>
 <!-- DIRSTRUCTURE_END_MARKER -->
 
----
-
-## 📚 Repository Contents
-
-This repository includes:
-- 📂 **Weekly folders** with lessons and practice files  
-- 📝 **Notes and summaries** for each session  
-- 🛠️ **Exercises and hands-on projects**  
-- 📦 **Additional resources and references**
-
----
-
-## 🎯 Objectives
-
-The main objectives of this repository are:
-
-1. **Learn coding and conceptual fundamentals** through structured exercises and real examples.  
-2. **Build a strong foundation in AI concepts** and practical applications.  
-3. **Document learning progress** for self-review and future reference.  
-4. **Experiment with small projects** to apply concepts in practice.  
-5. **Share knowledge and resources** with others interested in Python and AI.
-
----
-
-## 🧑‍💻 Tools & Technologies
-
-- **Python 3.x**  
-- **VS Code / PyCharm**  
-
----
-
-
-# 📅 My Daily Learning Log
-
-![Learning Hours](daily_log/learning_chart.png)
-
----
 
 
 ## 📬 Contact
@@ -144,3 +144,5 @@ The main objectives of this repository are:
 If you'd like to collaborate or learn together, feel free to get in touch!
 
 > _Note: This repository is a personal educational log._
+
+---
