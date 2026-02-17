@@ -1,0 +1,27 @@
+name: Update Daily Learning Chart
+
+on:
+  schedule:
+    - cron: '0 22 * * *'  # هر روز ساعت 22 اجرا می‌شود
+  workflow_dispatch:      # اجرای دستی هم امکان‌پذیر
+
+jobs:
+  update-chart:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+      - name: Install dependencies
+        run: pip install matplotlib
+      - name: Update chart with today's input
+        run: python update_chart_with_input.py
+      - name: Commit & push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add learning_log.json learning_chart.png
+          git commit -m "Update daily learning chart" || echo "No changes"
+          git push

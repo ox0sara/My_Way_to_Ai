@@ -126,3 +126,7 @@ This repository includes:
 If you'd like to collaborate or learn together, feel free to get in touch!
 
 > _Note: This repository is a personal educational log.
+
+# My Daily Learning Log
+
+![Learning Hours](learning_chart.png)
