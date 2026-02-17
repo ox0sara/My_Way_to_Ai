@@ -129,4 +129,4 @@ If you'd like to collaborate or learn together, feel free to get in touch!
 
 # My Daily Learning Log
 
-![Learning Hours](learning_chart.png)
+![Learning Hours](daily_log/learning_chart.png)
