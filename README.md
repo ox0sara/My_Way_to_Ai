@@ -1,6 +1,6 @@
 <div align="center">
 
-# PYTHON_COURSE_TVTO
+# AI Learning Journey
 
 ![Last Commit](https://img.shields.io/github/last-commit/ox0sara/python_course_tvto)
 ![Updated](https://img.shields.io/badge/last-thursday-blue)
@@ -12,14 +12,15 @@
 
 ---
 
-# 🤖 AI & Python Learning Journey
+# 🤖 My AI Learning Journey
 
-Welcome to my personal repository documenting my **learning journey in Python and Artificial Intelligence**. This repository collects exercises, notes, mini-projects, and experiments from a variety of sources, including online courses, tutorials, and hands-on practice. It reflects my progress in coding, AI concepts, and practical applications, serving both as a learning log and a showcase of my growing skills.
-
+Welcome to my personal repository documenting my **learning journey in Python and Artificial Intelligence**.  
+Here I collect exercises, notes, mini-projects, and experiments from various sources, including online courses, tutorials, and hands-on practice.  
+This repository serves both as a **learning log** and a **showcase of my growing skills** in coding, AI concepts, and practical applications.
 
 ---
 
-
+# 🗂 Content Organization
 
 <!-- DIRSTRUCTURE_START_MARKER -->
 <pre>
@@ -99,34 +100,47 @@ My_Way_to_Ai/
 </pre>
 <!-- DIRSTRUCTURE_END_MARKER -->
 
+---
 
 ## 📚 Repository Contents
 
 This repository includes:
-- 📅 Weekly folders with lessons and practice files  
-- 🧠 Notes and summaries for each session  
-- 🛠️ Exercises and hands-on projects  
-- 📦 Additional resources and references
+- 📂 **Weekly folders** with lessons and practice files  
+- 📝 **Notes and summaries** for each session  
+- 🛠️ **Exercises and hands-on projects**  
+- 📦 **Additional resources and references**
 
+---
 
+## 🎯 Objectives
 
-## 🎯  Objectives
+The main objectives of this repository are:
+
+1. **Learn coding and conceptual fundamentals** through structured exercises and real examples.  
+2. **Build a strong foundation in AI concepts** and practical applications.  
+3. **Document learning progress** for self-review and future reference.  
+4. **Experiment with small projects** to apply concepts in practice.  
+5. **Share knowledge and resources** with others interested in Python and AI.
 
 ---
 
 ## 🧑‍💻 Tools & Technologies
 
-- Python 3.x  
-- VS Code / PyCharm  
+- **Python 3.x**  
+- **VS Code / PyCharm**  
 
 ---
+
+
+# 📅 My Daily Learning Log
+
+![Learning Hours](daily_log/learning_chart.png)
+
+---
+
 
 ## 📬 Contact
 
 If you'd like to collaborate or learn together, feel free to get in touch!
 
-> _Note: This repository is a personal educational log.
-
-# My Daily Learning Log
-
-![Learning Hours](daily_log/learning_chart.png)
+> _Note: This repository is a personal educational log._
