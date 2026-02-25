@@ -125,27 +125,42 @@ My_Way_to_Ai/
 │       └── week06/
 │           └── installPackages.py
 │  
-├── machineLearning/
+├── machine_learning/
+│   ├── MACHINE_LEARNING_COURSE_TVTO/
+│   │   ├── week00/
+│   │   │   ├── note.txt
+│   │   │   ├── session01/
+│   │   │   │   └── my_script.R
+│   │   │   └── session02/
+│   │   │       └── cal.py
+│   │   ├── week01/
+│   │   │   ├── session03/
+│   │   │   │   ├── fileCreation.py
+│   │   │   │   └── printOnetoOneHundred.py
+│   │   │   ├── session04/
+│   │   │   │   └── campareDatastructure.py
+│   │   │   └── session05/
+│   │   │       ├── note.txt
+│   │   │       ├── studentGraph.py
+│   │   │       └── studentGraph.R
+│   │   └── week02/
+│   │       └── session07/
+│   │           └── binarySearch.py
 │   ├── note.md
-│   ├── week00/
-│   │   ├── note.txt
-│   │   ├── session01/
-│   │   │   └── my_script.R
-│   │   └── session02/
-│   │       └── cal.py
-│   ├── week01/
-│   │   ├── session03/
-│   │   │   ├── fileCreation.py
-│   │   │   └── printOnetoOneHundred.py
-│   │   ├── session04/
-│   │   │   └── campareDatastructure.py
-│   │   └── session05/
-│   │       ├── note.txt
-│   │       ├── studentGraph.py
-│   │       └── studentGraph.R
-│   └── week02/
-│       └── session07/
-│           └── binarySearch.py
+│   └── supervised_learning/
+│       ├── k_nearest_neighbors/
+│       │   └── k_nearest_neighbors.ipynb
+│       ├── nave_bayes/
+│       │   ├── nave_bayes.ipynb
+│       │   ├── nave_bayes2.ipynb
+│       │   └── youtube-dataset/
+│       │       ├── nave_bayes3.ipynb
+│       │       ├── Youtube01.csv
+│       │       ├── Youtube02.csv
+│       │       ├── Youtube03.csv
+│       │       ├── Youtube04.csv
+│       │       └── Youtube05.csv
+│       └── test.ipynb
 └── README.md
 
 </pre>
